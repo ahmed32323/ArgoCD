@@ -14,6 +14,6 @@ spec:
     spec:
       containers:
       - name: myapp
-        image: thnginx/inginx
+        image: kasmweb/nginx
         ports:
         - containerPort: 8080
