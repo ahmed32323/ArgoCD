@@ -14,6 +14,6 @@ spec:
     spec:
       containers:
       - name: myapp
-        image: ahmed786a/my-nginx-8080
+        image: wordpress
         ports:
         - containerPort: 8080
